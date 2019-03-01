@@ -1,26 +1,30 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
+import Banner from './Component/Banner';
+import Card from './Component/Card';
+import Faqlist from './Component/Faqlist';
 
 class App extends Component {
   render() {
     return (
-      <div className="App">
-        <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <p>
-            Edit <code>src/App.js</code> and save to reload.
-          </p>
-          <a
-            className="App-link"
-            href="https://reactjs.org"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Learn React
-          </a>
-        </header>
-      </div>
+      <React.Fragment>
+        <div className="row">
+            <div className="col-md-12">
+             <Banner />
+              <div className="row">
+                <Card tittle="sanjay">icing nostrud cillum labore do. Deserunt nostrud</Card>
+                <Card tittle="sanjay">icing nostrud cillum labore do. Deserunt nostrud</Card>
+                <Card tittle="Accuprint">liquip fugiat laborum culpa dolore ex eu ipsum labore quis. Est laboris Lorem</Card>
+
+              </div>
+          </div>
+        </div>
+
+
+
+        <Faqlist />
+      </React.Fragment>
     );
   }
 }

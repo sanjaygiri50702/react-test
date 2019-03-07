@@ -4,12 +4,14 @@ import './App.css';
 import Banner from './Component/Banner';
 import Card from './Component/Card';
 import Faqlist from './Component/Faqlist';
-
+import Todo from './Component/Todo';
+import Quiz from './Component/quiz'
+import Checkbox from './Component/checkbox'
 class App extends Component {
   render() {
     return (
       <React.Fragment>
-        <div className="row">
+        {/* <div className="row">
             <div className="col-md-12">
              <Banner />
               <div className="row">
@@ -19,11 +21,14 @@ class App extends Component {
 
               </div>
           </div>
-        </div>
+        </div> */}
 
+          {/* <Checkbox /> */}
 
+          <Quiz />
+          <Todo />
 
-        <Faqlist />
+        {/* <Faqlist /> */}
       </React.Fragment>
     );
   }

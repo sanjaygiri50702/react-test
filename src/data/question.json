@@ -1,0 +1,98 @@
+[
+    {
+        "id":0,
+        "question":"What is the capital city of Australia ?",
+        "option":[
+            "canberra","melbourne","sydney","perth"
+        ],
+        "answer":"canberra"
+    },
+    {
+        "id":1,
+        "question":"which is the largest river",
+        "option":[
+            "hello","nile","amazon","k2"
+        ],
+        "answer":"amazon"
+    },
+    {
+        "id":2,
+        "question":"Which planet is nearest the sun?",
+        "option":[
+            "mercury","saturn","jupiter","uranus"
+        ],
+        "answer":"mercury"
+    },
+    {
+        "id":3,
+        "question":"The weight of diamonds is usually measured in what?",
+        "option":[
+            "tola","carat","maund","troy"
+        ],
+        "answer":"carat"
+    },
+    {
+        "id":4,
+        "question":" Which of these viruses takes it's name from a place in Malaysia?",
+        "option":[
+            "nipah","ebola","infleunza","HIV"
+        ],
+        "answer":"nipah"
+    },
+    {
+        "id":5,
+        "question":"Which of these viruses takes it's name from a place in Malaysia?",
+        "option":[
+            "youtube","iPhone","Google","Skype"
+        ],
+        "answer":"Google"
+    },
+    {
+        "id":6,
+        "question":"Which of these planets has a solid surface?",
+        "option":[
+            "mars","saturn","jupiter","uranus"
+        ],
+        "answer":"mars"
+    },
+    {
+        "id":7,
+        "question":"Which of these viruses takes it's name from a place in Malaysia?",
+        "option":[
+            "forward","defender","midfielder","goalkeeper"
+        ],
+        "answer":"mars"
+    },
+    {
+        "id":8,
+        "question":"What color is cobalt?",
+        "option":[
+            "red","blue","black","white"
+        ],
+        "answer":"blue"
+    },
+    {
+        "id":9,
+        "question":"How many minutes is a rugby match?",
+        "option":[
+            "100 minutes","90 minutes","60 minutes","80 minutes"
+        ],
+        "answer":"80 minutes"
+    },
+    {
+        "id":10,
+        "question":"In which year did Maradona score a goal with his hand?",
+        "option":[
+            "1956","2000","1986","1984"
+        ],
+        "answer":"1986"
+    },
+    {
+        "id":11,
+        "question":"In which sport can you win the Davis Cup?",
+        "option":[
+            "football","tennis","cricket","badminton"
+        ],
+        "answer":"tennis"
+    }
+]
